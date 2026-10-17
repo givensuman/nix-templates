@@ -3,7 +3,7 @@
 ### quick start
 
 ```bash
-nix flake init -t github:givensuman/nix-templates#minimal
+nix flake init -t github:givensuman/nix-templates
 ```
 
 ### get a specific template
