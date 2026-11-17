@@ -12,4 +12,4 @@ nix flake init -t github:givensuman/nix-templates
 nix flake init -t github:givensuman/nix-templates#vscode
 ```
 
-Available templates: `default`, `vscode`, `just`, `rust`, `go`, `python`, `node`, `zig`.
+Available templates: `default`, `vscode`, `just`, `rust`, `go`, `python`, `node`, `zig`, `deno`.

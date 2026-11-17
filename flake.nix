@@ -42,6 +42,11 @@
       description = "Zig (zig, zls)";
     };
 
+    templates.deno = {
+      path = ./deno;
+      description = "Deno";
+    };
+
     # You can add more templates here if desired:
     # templates.another-template = {
     #   path = ./path-to-other-folder;
