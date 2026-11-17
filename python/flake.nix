@@ -23,7 +23,6 @@
             ruff
             pyright
           ];
-
         };
       }
     );
